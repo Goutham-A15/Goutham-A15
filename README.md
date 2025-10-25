@@ -1,4 +1,4 @@
-t# 💫 About Me:
+# 💫 About Me:
 Hi, I’m Goutham👋 A frontend developer who loves turning ideas into clean, user friendly interfaces. Recently, I’ve been diving deeper into backend development
 
 
